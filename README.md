@@ -46,7 +46,7 @@ Wazuh Indexer → Wazuh Dashboard
 
 ## Architecture Wazuh all-in-one 
 
-![[schema.png]]
+![Architecture Wazuh all-in-one](schema.png)
 
 
 ## Déploiement rapide
