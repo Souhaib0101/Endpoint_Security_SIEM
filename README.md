@@ -211,6 +211,9 @@ Get-Service WazuhSvc
 ---
 
 **Auteur** : Souhaib MONTAKI
+
 Étudiant ingénieur – Génie du Logiciel et des Systèmes Informatiques Distribués
+
 ENSET Mohammedia
+
 **Date** : Janvier 2026
